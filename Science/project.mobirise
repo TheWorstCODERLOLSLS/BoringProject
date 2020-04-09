@@ -1,0 +1,257 @@
+{
+  "settings": {
+    "name": "Site-04-09_0816",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#00b5ff",
+        "#413f3f"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.6",
+    "siteFonts": [],
+    "uniqCompNum": 3,
+    "versionPublish": "4.11.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "21px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#27aae0"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Science Work</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#413f3f",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Explain Sexual Reproduction?",
+                "contentAlign": "center",
+                "text": "<br><br>The production of new living organisms by combining genetic information.<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1233.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "What are sister chromatids?<br>  When are they formed?\n<div><br></div>",
+                "contentAlign": "center",
+                "text": "<br><br>Sister chromatids refers to the identical copies chromatids<br><br>Sister chromatids are formed during the s phase.<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Describe what is happening during Prophase I in meiosis.\r</div><div><br></div>",
+                "contentAlign": "center",
+                "text": "<br>They coil and become shorter and thicker.<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Describe what is happening in Metaphase I in meiosis</div>",
+                "contentAlign": "center",
+                "text": "<br>The dividing line runs between paired homologous chromosomes.<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Explain the key differences between mitosis and meiosis</div>",
+                "contentAlign": "center",
+                "text": "<br>Mitosis does division of body cells<br><br>Meiosis does division of sex cells<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1152.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Contrast Diploid and Haploid cells.</div>",
+                "contentAlign": "center",
+                "text": "<br>Haploid and diploid cells difference are the number of chromosomes sets found in the nucleus<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Describe the cells produced at the end of meiosis.  Be sure to tell how many cells are produced and discuss the number of chromosomes and DNA.</div>",
+                "contentAlign": "center",
+                "text": "<br>4 Daughter cells<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>Describe the cells produced at the end of mitosis.  Be sure to tell how many cells are produced and discuss the number of chromosomes and DNA.</div>",
+                "contentAlign": "center",
+                "text": "<br>&nbsp;2 Daughter cells<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1233.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>How are meiosis and mitosis similar?\n</div><div><br></div>",
+                "contentAlign": "center",
+                "text": "Mitosis and Meiosis are processes of cell division.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<div>What is a diploid cell?  Give an example?</div>",
+                "contentAlign": "center",
+                "text": "<br>Diploid cells include all animal cells.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "H1": {
+              "font-size": "30px",
+              "text-align": "left",
+              "color": "#00b5ff"
+            },
+            "DIV": {
+              "font-size": "32px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
